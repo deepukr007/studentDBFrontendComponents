@@ -18,11 +18,8 @@
     align-items: center;
     border-radius:10px;
     background: hsla(152, 100%, 50%, 1);
-
     background: linear-gradient(90deg, hsla(152, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 90%);
-    
-    
-    
+
 }
 
 body{
@@ -30,8 +27,6 @@ body{
     justify-content: center;
     align-content: center;
     align-items: center;
-
-
 }
 
 h2
